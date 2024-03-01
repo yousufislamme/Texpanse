@@ -1,18 +1,16 @@
 ### Texpanse
 
 
-import this line 
+1 . import this line 
 ```
 import { useCaseConverter } from 'Texpanse';
-
-
 ```
-
+2 . add your title
 ```
    const originalString = "Bangladesh";
    const colors = ['text-blue-500', 'text-purple-500', 'text-yellow-500'];
 ```
-
+3 . and add this convertedString , colorClasses
 ```
    const { convertedString, colorClasses } = useCaseConverter(originalString, colors);
 
@@ -25,5 +23,5 @@ import { useCaseConverter } from 'Texpanse';
 ```
 return 
 ```
-renderConvertedString(convertedString, colorClasses)
+<h1> renderConvertedString(convertedString, colorClasses) </h1>
 ```
