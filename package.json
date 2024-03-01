@@ -1,0 +1,26 @@
+{
+  "name": "texpanse",
+  "version": "1.0.0",
+  "description": "random lower case to uppercase letter converter.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousufislamme/lu-converter.git"
+  },
+  "keywords": [
+    "Texpanse",
+    "lower case",
+    "upper case",
+    "random text size",
+    "text animation"
+  ],
+  "author": "Md Yousuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousufislamme/lu-converter/issues"
+  },
+  "homepage": "https://github.com/yousufislamme/lu-converter#readme"
+}
