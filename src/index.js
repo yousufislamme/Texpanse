@@ -10,7 +10,7 @@ export const useCaseConverter = (originalString, colors) => {
          const { convertedString, colorClasses } = convertCase(originalString, colors);
          setConvertedString(convertedString);
          setColorClasses(colorClasses);
-      }, 1000);
+      }, 3000);
 
       return () => clearInterval(intervalId);
    }, [originalString, colors]);

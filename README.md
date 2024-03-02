@@ -2,6 +2,7 @@
 
 
 1 . import this line 
+if you using 'Next.js' then use this '"use client"'
 ```
 import { useCaseConverter } from 'Texpanse';
 ```
