@@ -23,5 +23,5 @@ import { useCaseConverter } from 'texpanse';
 ```
 return 
 ```
-<h1> renderConvertedString(convertedString, colorClasses) </h1>
+<h1> {renderConvertedString(convertedString, colorClasses)} </h1>
 ```
