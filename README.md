@@ -3,7 +3,7 @@
 if you using 'Next.js' then use this `"use client"` <br>
 1 . import this line 
 ```
-import { useCaseConverter } from 'Texpanse';
+import { useCaseConverter } from 'texpanse';
 ```
 2 . add your title
 ```
