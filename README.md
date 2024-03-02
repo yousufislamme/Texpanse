@@ -1,6 +1,6 @@
-### Texpanse
+# Texpanse
 
-
+if you using 'Next.js' then use this `"use client"` <br>
 1 . import this line 
 ```
 import { useCaseConverter } from 'Texpanse';
