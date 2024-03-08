@@ -1,6 +1,6 @@
 {
   "name": "texpanse",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "random lower case to uppercase letter converter.",
   "main": "./src/index.js",
   "scripts": {
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "Texpanse",
+    "react",
+    "front-end",
     "lower case",
     "upper case",
     "random text size",
